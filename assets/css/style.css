@@ -1,0 +1,23 @@
+nav{
+    box-shadow: 3px 3px 30px #88888846;
+}
+
+a{
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+ol{
+  list-style: none;
+}
+.align center{
+  text-align: center;
+}
+.ul{
+    background-color: white;
+    padding: 10px 0;
+    display: inline-block;
+    margin: 2px 0;
+
+}
